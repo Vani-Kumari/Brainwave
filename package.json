@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vani-Kumari.github.io/Brainwave/",
+  "homepage": "https://Vani-Kumari.github.io/Brainwave",
   "name": "brainwave",
   "private": true,
   "version": "0.0.0",
@@ -9,9 +9,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
